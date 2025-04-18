@@ -23,3 +23,4 @@ WIP, if you want to add any more just make a PR, not sure how much I'll maintain
 - [internet-measurement](https://internet-measurement.com/#ips) - Shows their IPRanges in a list for you to block, some lists above may come with some of these IPs loaded.
 - [2023 Aggregated list of Shodan IPs](https://www.ipfire.org/docs/configuration/firewall/blockshodan) - A list from 2023 (double check with something like abuseipdb) of shodan.io's ips (Shodan is an internet "search engine" which scans ports & hosts)
 - [Uptimerobot](https://uptimerobot.com/help/locations/) - Uptimerobot is an uptime monitoring service. If you use them to check for downtime, do NOT block their IP ranges!
+- [ipranges](https://github.com/lord-alfred/ipranges) - Lists IPRanges for large cloud providers or other services such as Google, ChatGPT/OpenAI, Facebook (Meta), Amazon AWS, and more.
