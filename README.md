@@ -9,6 +9,7 @@ WIP, if you want to add any more just make a PR, not sure how much I'll maintain
 
 ## Crowdsec
 [Crowdsec](https://crowdsec.net) offers 4 (including default community list) free blocklists if you enroll a machine as a security engine and give it a bouncer.
+I made a script to import some of the blocklists from below into crowdsec, you can check it out [here](https://codeberg.org/Itsyourdriver/crowdsec-blocklist-import-manual)
 
 ## Lists (In no particular order)
 - [firehol](https://iplists.firehol.org/) - [Homepage](https://firehol.org/) - `I heavily recommend picking the list that you feel works best. Different lists have different confidence levels.`
